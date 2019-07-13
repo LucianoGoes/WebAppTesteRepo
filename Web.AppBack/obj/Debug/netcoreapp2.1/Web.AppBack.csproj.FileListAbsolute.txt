@@ -1,0 +1,14 @@
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\bin\Debug\netcoreapp2.1\Web.AppBack.deps.json
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\bin\Debug\netcoreapp2.1\Web.AppBack.runtimeconfig.json
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\bin\Debug\netcoreapp2.1\Web.AppBack.runtimeconfig.dev.json
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\bin\Debug\netcoreapp2.1\Web.AppBack.dll
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\bin\Debug\netcoreapp2.1\Web.AppBack.pdb
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.csprojAssemblyReference.cache
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.csproj.CoreCompileInputs.cache
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.RazorAssemblyInfo.cache
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.RazorAssemblyInfo.cs
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.AssemblyInfoInputs.cache
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.AssemblyInfo.cs
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.RazorTargetAssemblyInfo.cache
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.dll
+C:\Dados\Estudo\Projetos\Repositorio\WebAppTeste\Web.AppBack\obj\Debug\netcoreapp2.1\Web.AppBack.pdb
